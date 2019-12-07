@@ -1,6 +1,7 @@
 function [x popx fitvals] = gaGo(ffit, nbits, gaoptions, varargin)
 %% Excencial of a Genetic Algorithm for Matlab or Gnu Octave %%%%%%%%%%%%%%%%%%%%%%
 %% Laboratory of Bioinformatics UFPR/SEPT - Roberto Tadeu Raittz
+%% Attribution-NonCommercial 2.0 Brazil (CC BY-NC 2.0 BR) 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Runs a canonic (binary) genetic algorithm;
 %
