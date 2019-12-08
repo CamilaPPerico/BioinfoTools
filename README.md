@@ -1,13 +1,13 @@
 # BioinfoTools
-As ferramentas aqui disponibilizadas obececem à licença Creative Commons Atribuição-NãoComercial 2.0 Brasil (CC BY-NC 2.0 BR), ou seja, é permitido o uso e modificação dos scripts desde que não haja uso comercial e que seja realizada a citação da autoria.
+Here are available Bioinformatics tools authored by members of the Artificial Intelligence Laboratory of the Bioinformatics Graduate Program of UFPR (Federal University of Paraná).
 
-Os scripts são de autoria dos membros do Laboratório de Inteligência Artificial do Programa de Pós-Graduação em Bioinformática da UFPR (Universidade Federal do Paraná).
+Such algorithms comply with the Creative Commons Attribution-NonCommercial 2.0 Brazil license (CC BY-NC 2.0 BR), ie, the use and modification of scripts is allowed provided there is no commercial use and need for citation of authorship.
 
 # gaGo: 
 - Excencial of a Genetic Algorithm for Matlab or Gnu Octave
 
 - Author: Prof. Dr. Roberto Tadeu Raittz. | 
-Laboratory of Artificial Inteligence of Bioinformatics Graduate Program UFPR/SEPT
+Laboratory of Artificial Inteligence of the Bioinformatics Graduate Program UFPR/SEPT
 
 - Runs a canonic (binary) genetic algorithm;
 
